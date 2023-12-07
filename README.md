@@ -3,10 +3,10 @@
 The project aims to make a comprehensive comparative analysis of three state-of-the-art AI chatbot models—Google Palm, GPT-2, and FLAN-T5—for document-based interactions. The primary focus is on evaluating their performance, capabilities, and suitability for handling document-related queries.
 ## objective :
 -  Assess the chatbots' ability to retrieve relevant information from large documents.
--  Evaluate how well the chatbots maintain context and provide coherent responses over prolonged interactions. 
--  Measure the accuracy of the responses provided by the chatbots in relation to the information present in the documents. 
--  Evaluate the response time and computational efficiency of each chatbot. 
--  Conduct user studies to gauge satisfaction and the overall user experience with each chatbot. 
+-  Evaluating how well the chatbots maintain context and provide coherent responses over prolonged interactions. 
+-  Measuring the accuracy of the responses provided by the chatbots in relation to the information present in the documents. 
+-  Evaluating the response time and computational efficiency of each chatbot. 
+-  Conducting user studies to gauge satisfaction and the overall user experience with each chatbot. 
 ## Methodology:
 ![Screenshot_2023-12-07_151629](https://github.com/menna566/Comparative-Analysis-of-PaLM-and-GPT2-and-FLAN-T5-Chatbots-for-Document-Based-/assets/73045024/b826a519-a42d-4c7a-bb63-f7d97c210bff)
 ## Dependencies:
